@@ -1,0 +1,14 @@
+DATE: 
+1/4/2018 3:46:42 PM
+
+ERROR MESSAGE: 
+ERROR [NA000] [Microsoft][ODBC driver for Oracle][Oracle]ORA-01756: quoted string not properly terminated
+
+ERROR DETAILS: 
+Line:31 Filename: frmEncCM.vb
+
+
+ERROR SOURCE: 
+System.Data.Odbc.OdbcException
+
+ERROR CODE: 0x80131937 

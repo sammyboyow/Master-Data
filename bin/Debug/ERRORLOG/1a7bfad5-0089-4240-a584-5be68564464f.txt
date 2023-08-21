@@ -1,0 +1,15 @@
+DATE: 
+1/4/2018 3:43:37 PM
+
+ERROR MESSAGE: 
+Invalid object name 'HPCOMMON..AutoUpdate'.
+
+ERROR DETAILS: 
+Server:SAP-PRODSVRx
+Details: Line:63 Filename: frmLogin.vb
+
+
+ERROR SOURCE: 
+.Net SqlClient Data Provider
+
+ERROR CODE: 208

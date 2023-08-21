@@ -1,0 +1,14 @@
+DATE: 
+1/11/2018 3:53:26 PM
+
+ERROR MESSAGE: 
+External component has thrown an exception.
+
+ERROR DETAILS: 
+Line:248 Filename: Module1.vb
+
+
+ERROR SOURCE: 
+System.Runtime.InteropServices.SEHException
+
+ERROR CODE: 0x80004005 

@@ -1,0 +1,14 @@
+DATE: 
+12/28/2017 6:48:16 PM
+
+ERROR MESSAGE: 
+An error occurred creating the form. See Exception.InnerException for details.  The error is: The form referred to itself during construction from a default instance, which led to infinite recursion.  Within the Form's constructor refer to the form using 'Me.'
+
+ERROR DETAILS: 
+Line:190 Filename: 17d14f5c-a337-4978-8281-53493378c1071.vb
+
+
+ERROR SOURCE: 
+System.InvalidOperationException
+
+ERROR CODE: 0x80131509 
