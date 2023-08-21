@@ -1,0 +1,103 @@
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Debug\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Debug\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Debug\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.frmMaster.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Release\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Release\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Release\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.frmMaster.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.frmMenu.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.frmPackage.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.frmHist.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\bin\Debug\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\bin\Debug\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\bin\Debug\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.frmMaster.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.frmMenu.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.frmPackage.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.frmHist.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\Old Programs\MasterData\obj\Debug\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.frmUpTran.resources
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\MasterData\bin\Debug\MasterData.exe
+C:\Documents and Settings\Administrator\Desktop\MasterData\bin\Debug\MasterData.pdb
+C:\Documents and Settings\Administrator\Desktop\MasterData\bin\Debug\MasterData.xml
+C:\Documents and Settings\Administrator\Desktop\MasterData\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\MasterData\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\MasterData.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\MasterData.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\MasterData.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.frmDoctor.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.frmDoctor.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.frmMenu.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.frmPackage.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.frmHist.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Release\MasterData.frmUpTran.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.exe
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.xml
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.pdb
+D:\SAP\Programs\MasterData\bin\Debug\MasterData.exe
+D:\SAP\Programs\MasterData\bin\Debug\MasterData.pdb
+D:\SAP\Programs\MasterData\bin\Debug\MasterData.xml
+D:\SAP\Programs\MasterData\bin\Debug\Interop.SAPbobsCOM.dll
+D:\SAP\Programs\MasterData\obj\Debug\ResolveAssemblyReference.cache
+D:\SAP\Programs\MasterData\obj\Debug\Interop.SAPbobsCOM.dll
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.vbproj.ResolveComReference.cache
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.frmDoctor.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.Form1.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.frmMaster.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.frmMenu.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.frmPackage.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.frmHist.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.frmUpTran.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.Resources.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\MasterData.frmFind.resources
+D:\SAP\Programs\MasterData\obj\Debug\MasterData.frmFind.resources
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\Administrator\Desktop\SAP\Programs\MasterData\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrator\Desktop\MasterData\obj\Debug\MasterData.frmDoctor.resources
